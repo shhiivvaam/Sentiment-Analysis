@@ -1,0 +1,3 @@
+conda create -n flipkart python=3.9
+conda activate flipkart
+pip install flask nltk requests numpy bs4 matplotlib wordcloud
